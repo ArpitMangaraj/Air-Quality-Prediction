@@ -28,7 +28,7 @@ Also calculated MAE, RMSE, and feature importances
 - `README.md`: This file
 
 ## 📊 Sample Output
-![Feature Importance](project_banner.png)
+![PM2.5 Prediction Output](predicted_pm25_output.png)
 
 ## 🧠 Author
 [Arpit Mangaraj](https://www.linkedin.com/in/arpit-mangaraj-894049256/)

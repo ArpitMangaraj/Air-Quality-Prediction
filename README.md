@@ -1,4 +1,4 @@
-## 📊 Sample Output
+## 🚀 Project Banner 
 ![Project Banner](Banner.png)
 
 # 🌫️ Air Quality Prediction Using Data Science
